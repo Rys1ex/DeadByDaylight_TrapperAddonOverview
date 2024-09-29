@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(black 20%,rgb(45, 42, 42) 50%,black);
+    background-repeat: no-repeat;
+    color: whitesmoke;
+    text-align: center;
+}
+
+img:hover{
+    background-color: black;
+}
+
+h1{
+    font-size: 30px;
+}
+
+p{
+    font-size: 25px;
+}
+
+a{
+    color: whitesmoke;
+    font-size: 25px;
+}
+
+a:hover{
+    color: red;
+}
+
+table{
+    align-items: center;
+}
